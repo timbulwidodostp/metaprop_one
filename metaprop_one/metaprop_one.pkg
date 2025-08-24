@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'metaprop_one': Perform fixed and random effects meta-analysis of proportions Use metaprop_one With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F metaprop_one.ado
+F metaprop_one.sthlp
+F metaprop_one_examples.ado
