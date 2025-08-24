@@ -1,6 +1,8 @@
 # metaprop_one
 Perform fixed and random effects meta-analysis of proportions Use metaprop_one With STATA 19
 
+Fixed- and random-effects meta-analysis of proportions Use metaprop_one With STATA 19
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
