@@ -3,6 +3,8 @@ Perform fixed and random effects meta-analysis of proportions Use metaprop_one W
 
 Fixed- and random-effects meta-analysis of proportions Use metaprop_one With STATA 19
 
+https://www.youtube.com/watch?v=_Cp7xi3kIO4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
